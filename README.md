@@ -2,8 +2,8 @@
 ### I am Anmol, I love creating frontend application. I started following my passing during second year of my college and here I am, hope you like my work.
 
 
-- 🔭 I’m currently working on Frontend tech
-- 🌱 I’m currently learning Vue.js
+- 🔭 I’m currently working as Frontend Developer
+- 🌱 I’m currently learning NextJs
 - 💬 Ask me about React js, JavaScript, Data Structures and algorithm
 - 📫 How to reach me: sainianmol16@gmail.com
 - ⌨️ My portfolio: [Click here!](https://anmoldeepsingh.netlify.app/)
