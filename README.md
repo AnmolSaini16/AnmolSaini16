@@ -3,8 +3,7 @@
 
 
 - 🔭 I’m currently working as Frontend Developer
-- 🌱 I’m currently learning Next Js
-- 💬 Ask me about React js, JavaScript, TypeScript, Data Structures and algorithm
+- 💬 Ask me about React js, Next Js, JavaScript, TypeScript, Data Structures and algorithm
 - 📫 How to reach me: sainianmol16@gmail.com
 - ⌨️ My portfolio: [Click here!](https://anmoldeepsingh.netlify.app/)
 - 😄 Pronouns: He/Him
