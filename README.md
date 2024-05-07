@@ -5,9 +5,7 @@
 - 🔭 I’m currently working as Full Stack Developer
 - 💬 Ask me about React js, Next Js, JavaScript, TypeScript, Node Js, Databases, Data Structures and algorithm
 - 📫 How to reach me: sainianmol16@gmail.com
-- ⌨️ My portfolio: [Click here!](https://anmoldeepsingh.netlify.app/)
+- ⌨️ My portfolio: [Click here!](https://anmoldeep.vercel.app/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Never stop exploring
-<!-- - 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with Angular -->
 
