@@ -7,5 +7,4 @@
 - 📫 How to reach me: sainianmol16@gmail.com
 - ⌨️ My portfolio: [Click here!](https://anmoldeep.vercel.app/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Never stop exploring
 
