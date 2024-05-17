@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I am a Software Engineer specializing in Frontend. I love to Build Things!
+### I am a Software Engineer specializing in web. I love to Build Things!
 
 
 - 🔭 I’m currently working as Full Stack Developer
