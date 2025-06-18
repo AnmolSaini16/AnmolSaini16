@@ -1,16 +1,24 @@
-# 👋 Hi there, I'm Anmoldeep Singh!
+### 👋 Hi there, I'm [Anmoldeep Singh!](https://anmoldeep.vercel.app)
 
 Welcome to my GitHub profile! I'm a passionate developer who loves building things for the web, solving real-world problems, and learning new technologies. 🚀
 
-## 🛠️ Tech Stack
+```javascript
+const me = {
+  name: "Anmoldeep Singh",
+  passion: "Building sleek, scalable, and user-friendly web applications",
+  // My ever-evolving tech stack 👇
+  techStack: {
+    languages: ["JavaScript", "TypeScript", "Python", "Java"],
+    frontend: ["React", "Next.js", "Tailwind CSS", "shadcn/ui"],
+    backend: ["Node.js", "Express", "Nest.js", "Firebase", "PostgreSQL"],
+    tools: ["Git", "Docker", "Vercel", "Supabase", "Mapbox", "Figma"]
+  },
+  hobbies: ["solving real-world problems", "learning cool new tech", "gym", "reading"],
+  reachOut: "Feel free to connect or collaborate — always up for exciting projects!"
+}
+```
 
-- **Languages:** JavaScript, TypeScript, Python, Java  
-- **Frontend:** React, Next.js, Tailwind CSS, shadcn/ui  
-- **Backend:** Node.js, Express, Nest.js, Firebase, PostgreSQL  
-- **Tools & Platforms:** Git, Docker, Vercel, Supabase, Mapbox, Figma 
-- **Currently Exploring:** AI integrations, tRPC, and microservices architecture
-
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <table>
   <tr>
@@ -23,7 +31,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building thin
   </tr>
 </table>
 
-## 🚀 Featured Repositories
+### 🚀 Featured Repositories
 
 <table>
   <tr>
@@ -41,12 +49,13 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building thin
 </table>
 
 
-## 📫 Let's Connect!
+### 📫 Let's Connect!
 
-- Portfolio: [https://anmoldeep.vercel.app](https://anmoldeep.vercel.app)
-- LinkedIn: [https://www.linkedin.com/in/anmoldeep-singh-51bb4b1b1](https://www.linkedin.com/in/anmoldeep-singh-51bb4b1b1)
-- Twitter/X: [@sainianmol16](https://twitter.com/sainianmol16)
-- Email: sainianmol16@gmail.com
+- [My Website](https://anmoldeep.vercel.app)
+- [LinkedIn](https://www.linkedin.com/in/anmoldeep-singh-51bb4b1b1)
+- [Twitter/X](https://twitter.com/sainianmol16)
+- [Instagram](https://www.instagram.com/anmol_saini16)
+- [Mail](mailto:sainianmol16@gmail.com)
 
 ---
 
