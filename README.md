@@ -41,7 +41,7 @@ const me = {
       </a>
     </td>
     <td>
-      <a href="https://github.com/AnmolSaini16/easy-poll">
+      <a href="https://github.com/AnmolSaini16/table-forge">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnmolSaini16&repo=table-forge&theme=dark" />
       </a>
     </td>
