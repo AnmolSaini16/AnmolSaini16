@@ -42,7 +42,7 @@ const me = {
     </td>
     <td>
       <a href="https://github.com/AnmolSaini16/easy-poll">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnmolSaini16&repo=easy-poll&theme=dark" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnmolSaini16&repo=table-forge&theme=dark" />
       </a>
     </td>
   </tr>
