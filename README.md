@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm [Anmoldeep Singh!](https://anmoldeep.vercel.app)
+### 👋 Hi there, I'm [Anmoldeep Singh!](https://www.anmoldeep.dev/)
 
 Welcome to my GitHub profile! I'm a passionate developer who loves building things for the web, solving real-world problems, and learning new technologies. 🚀
 
