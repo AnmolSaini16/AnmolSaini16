@@ -53,7 +53,6 @@ const me = {
 
 - [LinkedIn](https://www.linkedin.com/in/anmoldeep-singh-51bb4b1b1)
 - [Twitter/X](https://twitter.com/sainianmol16)
-- [Instagram](https://www.instagram.com/anmol_saini16)
 - [Mail](mailto:sainianmol16@gmail.com)
 
 ---
