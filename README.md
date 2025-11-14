@@ -1,19 +1,13 @@
-### 👋 Hi there, I'm [Anmoldeep Singh!](https://www.anmoldeep.dev/)
+#### Hi there 👋, I'm [Anmoldeep Singh!](https://www.anmoldeep.dev/)
 
-Welcome to my GitHub profile! I'm a passionate developer who loves building things for the web, solving real-world problems, and learning new technologies. 🚀
+I'm a software engineer passionate about building web applications. 🚀
+
+I love to transform ideas into reality.
 
 ```javascript
 const me = {
   name: "Anmoldeep Singh",
-  passion: "Building sleek, scalable, and user-friendly web applications",
-  // My ever-evolving tech stack 👇
-  techStack: {
-    languages: ["JavaScript", "TypeScript", "Python", "Java"],
-    frontend: ["React", "Next.js", "Tailwind CSS", "shadcn/ui"],
-    backend: ["Node.js", "Express", "Nest.js", "Firebase", "PostgreSQL"],
-    tools: ["Git", "Docker", "Vercel", "Supabase", "Mapbox", "Figma"]
-  },
-  hobbies: ["solving real-world problems", "learning cool new tech", "gym", "reading"],
+  hobbies: ["learning new things", "gym", "reading", "writing"],
   reachOut: "Feel free to connect or collaborate — always up for exciting projects!"
 }
 ```
@@ -41,8 +35,8 @@ const me = {
       </a>
     </td>
     <td>
-      <a href="https://github.com/AnmolSaini16/table-forge">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnmolSaini16&repo=table-forge&theme=dark" />
+      <a href="https://github.com/AnmolSaini16/next-14-infinite-scroll">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnmolSaini16&repo=next-14-infinite-scroll&theme=dark" />
       </a>
     </td>
   </tr>
