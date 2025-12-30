@@ -1,13 +1,7 @@
-#### Hi there 👋, I'm [Anmoldeep Singh!](https://www.anmoldeep.dev/)
-
-I'm a software engineer passionate about building web applications.
-
-I love to transform ideas into reality.
-
 ```javascript
 const me = {
   name: "Anmoldeep Singh",
-  hobbies: ["learning new things", "gym", "reading", "writing"],
+  about: "I'm a software engineer passionate about building web applications.",
   reachOut: "Feel free to connect or collaborate — always up for exciting projects!"
 }
 ```
