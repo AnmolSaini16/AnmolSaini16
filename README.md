@@ -1,7 +1,7 @@
 ```javascript
 const me = {
   name: "Anmoldeep Singh",
-  about: "I'm a software engineer passionate about building web applications.",
+  about: "I'm a software engineer, I love building things on the web.",
   reachOut: "Feel free to connect or collaborate — always up for exciting projects!"
 }
 ```
